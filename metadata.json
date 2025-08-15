@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard de Pluviômetro",
+  "description": "Uma dashboard avançada para monitoramento de chuva em tempo real, utilizando dados de contadores de pulso para cálculos precisos de precipitação, intensidade e acumulado diário.",
+  "requestFramePermissions": [
+    "ws"
+  ]
+}
